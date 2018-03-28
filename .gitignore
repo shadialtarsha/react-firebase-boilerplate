@@ -1,0 +1,4 @@
+node_modules
+public/dist/
+config.development.env
+config.test.env
